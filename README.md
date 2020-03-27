@@ -1,6 +1,6 @@
 # Front End Engineer Assignment Task
 
-In this task, you will be building a mobile smart home controller dashboard.The dashboard is demonstrated in this [video]() .
+In this task, you will be building a mobile smart home controller dashboard.The dashboard is demonstrated in this [video](https://github.com/RadicalHealthTech/FE-Assignment/blob/master/smart_home_controller.mp4?raw=true).
 
 There are two screens in this UI
 
@@ -14,7 +14,7 @@ This screen lets the user monitor and control four categories of devices:
 4. CO<sub>2</sub> Sensors
 
 It also shows a graph demonstrating a statistic.
-Data for the graph can be obtained from [here]()
+Data for the graph can be obtained from [here](https://raw.githubusercontent.com/RadicalHealthTech/FE-Assignment/master/db.json?token=ACAELVMWOPXECAU3RC27T5C6Q33BM)
 
 This document has three fields:
 
