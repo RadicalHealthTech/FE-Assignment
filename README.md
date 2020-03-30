@@ -47,4 +47,4 @@ Use of ReactJS is mandated for development of this assignment.
 ## Submission
 
 To submit, fork this repository, finish and push your notebook on the forked repository then perform a pull request to this repository.
-Deadline for the submission is Monday, 27 March 2020 11:59 PM.
+Deadline for the submission is Monday, 2 April 2020 11:59 PM.
